@@ -1,10 +1,11 @@
 # IPTV-PREMIUM-VIP-02
 
-#EXTM3U ARJUN FIQRI ADRILLAH
+#EXTM3U ARJUN FIQRI ADRILLAH 
 
 MINAT BISA HUBUNGI NO WHATSAPP INI 082352668537
 
  INDONESIA TV
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
